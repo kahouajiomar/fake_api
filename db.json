@@ -1,4 +1,6 @@
 {
-  "id": "1",
-  "checkoutUrl": "https://example.com"
+  "cart": {
+    "id": 1,
+    "checkoutUrl": "https://example.com"
+  }
 }
